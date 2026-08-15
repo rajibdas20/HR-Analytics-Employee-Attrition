@@ -51,6 +51,14 @@ The Power BI dashboard and project files are available in this repository.
 
 ![HR Analytics Insights](./HR%20Analytics%20Insights.png)
 
+## 💡 Key Insights
+
+- 📉 Overall employee attrition rate: **16.12%**
+- 💰 Average salary: **6.50K**
+- 🏢 Research & Development has the highest employee count.
+- 👨 Male employees represent **60%** of the workforce.
+- ⏰ Overtime status can be further analyzed to understand its relationship with employee attrition.
+
 ## 👤 Author
 
 **Rajib Das**
