@@ -43,6 +43,14 @@ The analysis focuses on identifying employee groups and organizational factors a
 
 The Power BI dashboard and project files are available in this repository.
 
+## 📊 Dashboard Preview
+
+![HR Analytics Employee Attrition Dashboard](./HR%20Analytics%20Employee%20Attrition%20project.png)
+
+## 💡 Key Insights
+
+![HR Analytics Insights](./HR%20Analytics%20Insights.png)
+
 ## 👤 Author
 
 **Rajib Das**
